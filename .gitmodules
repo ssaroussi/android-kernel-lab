@@ -1,0 +1,4 @@
+[submodule "kernels/msm"]
+    path = kernels/msm
+    url = https://android.googlesource.com/kernel/msm
+    branch = master
